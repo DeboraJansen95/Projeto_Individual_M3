@@ -23,6 +23,9 @@ Veja abaixo os modelos conceitual e lógico que representam a estrutura do banco
 - **Modelo Lógico**
   ![Modelo Logico](./fotos/modelo_logico.png)
 
+## Respostas aos requisitos do projeto
+Acesse o arquivo [RESPOSTAS](./RESPOSTAS.md).
+
 ## Programas Utilizados
 
 - [MySQL Workbench 8.0 CE](https://www.mysql.com/products/workbench/)
