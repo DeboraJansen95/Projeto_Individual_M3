@@ -19,9 +19,9 @@ Este projeto visa desenvolver um banco de dados que armazenará informações im
 Veja abaixo os modelos conceitual e lógico que representam a estrutura do banco de dados.
 
 - **Modelo Conceitual**
-  ![Modelo Conceitual](./modelo_conceitual.png)
+  ![Modelo Conceitual](./fotos/modelo_conceitual.png)
 - **Modelo Lógico**
-  ![Modelo Logico](./modelo_logico.png)
+  ![Modelo Logico](./fotos/modelo_logico.png)
 
 ## Programas Utilizados
 
