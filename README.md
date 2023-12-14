@@ -29,4 +29,4 @@ Veja abaixo os modelos conceitual e lógico que representam a estrutura do banco
 - [XAMPP](https://www.apachefriends.org/index.html)
 
 ## Autor
-Debora Jansem
+Debora Jansen
