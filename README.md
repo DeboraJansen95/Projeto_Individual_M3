@@ -1,6 +1,6 @@
-#Projeto de Desenvolvimento de Banco de Dados
+# Projeto de Desenvolvimento de Banco de Dados
 
-##Objetivo
+## Objetivo
 
 Este projeto visa desenvolver um banco de dados que armazenará informações importantes para o sistema 'Resilientes'. O banco de dados será utilizado para avaliar as tecnologias adotadas pelas empresas e identificar seus colaboradores.
 
